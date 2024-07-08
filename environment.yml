@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - lpython=0.20.0
+  - lpython=0.22.0
   - nodejs=18.12.1
   - make=4.3
   - cmake=3.25.2
